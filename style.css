@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+    color: white;
+}
+
+h1,
+h2 {
+    color: #99ceff;
+}
+
+strong {
+    color: yellow;
+}
+
+a {
+    color: red;
+}
